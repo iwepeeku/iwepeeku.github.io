@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwepeeku.github.io/FvZ/sitemap_index.txt
+Sitemap: https://iwepeeku.github.io/aGI/sitemap_index.txt
+Sitemap: https://iwepeeku.github.io/pil/sitemap_index.txt
+Sitemap: https://iwepeeku.github.io/uRp/sitemap_index.txt
